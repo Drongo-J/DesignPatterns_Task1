@@ -1,0 +1,122 @@
+[
+  {
+    "ImagePath": "/Images/modernChair1.jpeg",
+    "Category": 0
+  },
+  {
+    "ImagePath": "/Images/modernChair2.jpeg",
+    "Category": 0
+  },
+  {
+    "ImagePath": "/Images/modernChair3.jpeg",
+    "Category": 0
+  },
+  {
+    "ImagePath": "/Images/modernChair4.jpeg",
+    "Category": 0
+  },
+  {
+    "ImagePath": "/Images/modernTable1.jpeg",
+    "Category": 0
+  },
+  {
+    "ImagePath": "/Images/modernTable2.jpeg",
+    "Category": 0
+  },
+  {
+    "ImagePath": "/Images/modernTable3.jpeg",
+    "Category": 0
+  },
+  {
+    "ImagePath": "/Images/modernSofa1.jpeg",
+    "Category": 0
+  },
+  {
+    "ImagePath": "/Images/modernSofa2.jpeg",
+    "Category": 0
+  },
+  {
+    "ImagePath": "/Images/modernSofa3.jpeg",
+    "Category": 0
+  },
+  {
+    "ImagePath": "/Images/victorianChair1.jpeg",
+    "Category": 1
+  },
+  {
+    "ImagePath": "/Images/victorianChair2.jpeg",
+    "Category": 1
+  },
+  {
+    "ImagePath": "/Images/victorianChair3.jpeg",
+    "Category": 1
+  },
+  {
+    "ImagePath": "/Images/victorianChair4.jpeg",
+    "Category": 1
+  },
+  {
+    "ImagePath": "/Images/victorianTable1.jpeg",
+    "Category": 1
+  },
+  {
+    "ImagePath": "/Images/victorianTable2.jpeg",
+    "Category": 1
+  },
+  {
+    "ImagePath": "/Images/victorianTable3.jpeg",
+    "Category": 1
+  },
+  {
+    "ImagePath": "/Images/victorianSofa1.jpeg",
+    "Category": 1
+  },
+  {
+    "ImagePath": "/Images/victorianSofa2.jpeg",
+    "Category": 1
+  },
+  {
+    "ImagePath": "/Images/victorianSofa3.jpeg",
+    "Category": 1
+  },
+  {
+    "ImagePath": "/Images/artDecoChair1.jpeg",
+    "Category": 2
+  },
+  {
+    "ImagePath": "/Images/artDecoChair2.jpeg",
+    "Category": 2
+  },
+  {
+    "ImagePath": "/Images/artDecoChair3.jpeg",
+    "Category": 2
+  },
+  {
+    "ImagePath": "/Images/artDecoChair4.jpeg",
+    "Category": 2
+  },
+  {
+    "ImagePath": "/Images/artDecoTable1.jpeg",
+    "Category": 2
+  },
+  {
+    "ImagePath": "/Images/artDecoTable2.jpeg",
+    "Category": 2
+  },
+  {
+    "ImagePath": "/Images/artDecoTable3.jpeg",
+    "Category": 2
+  },
+  {
+    "ImagePath": "/Images/artDecoSofa1.jpeg",
+    "Category": 2
+  },
+  {
+    "ImagePath": "/Images/artDecoSofa2.jpeg",
+    "Category": 2
+  },
+  {
+    "ImagePath": "/Images/artDecoSofa3.jpeg",
+    "Category": 2
+  }
+]
